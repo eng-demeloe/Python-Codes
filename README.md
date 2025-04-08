@@ -1,1 +1,1 @@
-#Este codigo detecta uma face em uma foto
+#Este respositorio trz codigos em Python
