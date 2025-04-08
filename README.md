@@ -1,1 +1,1 @@
-#Este respositorio trz codigos em Python
+#Este respositório traz codigos em Python
